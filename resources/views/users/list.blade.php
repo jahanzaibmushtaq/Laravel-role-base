@@ -36,6 +36,9 @@
                                     {{ $user->name }}
                                 </td>
                                 <td class="px-6 py-3 text-left">
+                                    {{ $user->name }}
+                                </td>
+                                <td class="px-6 py-3 text-left">
                                     {{ $user->email }}
                                 </td>
                                 <td class="px-6 py-3 text-left">
